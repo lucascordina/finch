@@ -3,12 +3,12 @@
     "version": "1.0",
     "description": "Build an Extension!",
     "permissions": ["activeTab", "declarativeContent", "storage"],
-    "page_action": {
-      "default_popup": "popup.html"
-    },
     "background": {
       "scripts": ["background.js"],
       "persistent": false
+    },
+    "chrome_url_overrides" : {
+      "newtab": "tab.html"
     },
     "manifest_version": 2
   }
