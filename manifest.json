@@ -1,14 +1,14 @@
   {
-    "name": "Getting Started Example",
+    "name": "Finch Tabs",
     "version": "1.0",
-    "description": "Build an Extension!",
-    "permissions": ["activeTab", "declarativeContent", "storage"],
+    "description": "",
+    "permissions": ["storage"],
     "background": {
       "scripts": ["background.js"],
       "persistent": false
     },
     "chrome_url_overrides" : {
-      "newtab": "tab.html"
+      "newtab": "views/tab.html"
     },
     "manifest_version": 2
   }
