@@ -23,6 +23,7 @@ main {
     justify-content: center;
     height: 100%;
     width: 100%;
+    background-color: #333333;
     background-size: cover;
     background-position: center center;
 }
@@ -37,6 +38,7 @@ main {
 }
 
 #species-description h1 {
+    text-transform: capitalize;
     margin-top: 0;
     margin-bottom: 1rem;
 }
