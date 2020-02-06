@@ -9,4 +9,7 @@ todaysSpecies.registerListener(function(val){
     document.getElementById("species-name").textContent = val.species;
     document.getElementById("order-name").textContent = val.order;
     document.getElementById("family-name").textContent = val.family;
+    document.getElementById("photo-author").textContent = val.imageLicenseHolder;
+    document.getElementById("license").textContent = val.licenseType;
+    document.getElementById("license").href = "https://creativecommons.org/licenses/by/3.0/";
 });

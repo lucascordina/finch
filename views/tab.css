@@ -16,6 +16,10 @@ h1 {
     font-size: 3em;
 }
 
+a {
+    color: #333333;
+}
+
 main {
     position: relative;
     display: flex;
@@ -46,6 +50,12 @@ main {
 #species-description label {
     margin: 0;
     font-size: 1rem;
+}
+
+#species-description .attribution-section label {
+    margin: 1rem auto 0;
+    font-style: italic;
+    font-size: 0.8rem;
 }
 
 /* CSS Attribute Styling */
