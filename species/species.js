@@ -12,7 +12,7 @@ export class Species {
         this.id = id;
         this.kingdom = kingdom;
         this.phylum = phylum;
-        this.kingdom.speciesClass = speciesClass;
+        this.speciesClass = speciesClass;
         this.order = order;
         this.family = family;
         this.genus = genus;
