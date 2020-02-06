@@ -18,11 +18,11 @@ import { Species } from '../species/species.js';
 //             }
 //         });
 
-//         if(isUnique) {
+//         if(isUnique && occurrence.species !== "") {
 
 //     console.log('ey yo');
 //             uniqueSpeciesReal.push(new Species(
-//                 occurrence.gbifID, occurrence.kingdom, occurrence.phylum, occurrence.class, occurrence.order, occurrence.family, occurrence.genus, occurrence.subgenus
+//                 occurrence.gbifID, occurrence.kingdom, occurrence.phylum, occurrence.class, occurrence.order, occurrence.family, occurrence.genus, occurrence.subgenus, occurrence.species
 //             ));
 
 //             uniqueSpecies.push(occurrence.acceptedScientificName);
@@ -35,13 +35,33 @@ import { Species } from '../species/species.js';
 
 
 //SPECIES DATA LOAD FROM JSON
-// var xobj = new XMLHttpRequest();
-// xobj.overrideMimeType("application/json");
-// xobj.open('GET', '../assets/data/speciesdata.json', true);
-// xobj.onreadystatechange = function () {
-//     if (xobj.readyState == 4 && xobj.status == "200") {
-//         var speciesdata = (JSON.parse(xobj.responseText));
-//         console.log(speciesdata);
-//     }
-// };
-// xobj.send(null);
+var xobj = new XMLHttpRequest();
+xobj.overrideMimeType("application/json");
+xobj.open('GET', '../assets/data/speciesdata.json', true);
+xobj.onreadystatechange = function () {
+    if (xobj.readyState == 4 && xobj.status == "200") {
+        var speciesdata = JSON.parse(xobj.responseText);
+
+        var mySpecies = [];
+        speciesdata.forEach(species => {
+            mySpecies.push(new Species(
+                species.id,
+                species.kingdom,
+                species.phylum,
+                species.speciesClass,
+                species.order,
+                species.family,
+                species.genus,
+                species.subgenus,
+                species.species,
+                species.imageUrl,
+                species.imageLicenseHolder,
+                species.licenseType
+            ));
+        });
+        console.log(speciesdata);
+        console.log(mySpecies);
+        console.log(JSON.stringify(mySpecies));
+    }
+};
+xobj.send(null);

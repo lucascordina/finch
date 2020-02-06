@@ -7,7 +7,11 @@ export class Species {
         order,
         family,
         genus,
-        subgenus
+        subgenus,
+        species,
+        imageUrl = "",
+        imageLicenseHolder = "",
+        licenseType = ""
     ) {
         this.id = id;
         this.kingdom = kingdom;
@@ -17,5 +21,9 @@ export class Species {
         this.family = family;
         this.genus = genus;
         this.subgenus = subgenus;
+        this.species = species;
+        this.imageUrl = imageUrl;
+        this.imageLicenseHolder = imageLicenseHolder;
+        this.licenseType = licenseType;
     }
 }
