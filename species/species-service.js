@@ -55,7 +55,7 @@ export class SpeciesService {
                                 species.species,
                                 species.imageUrl,
                                 species.imageLicenseHolder,
-                                species.licenseType
+                                species.imageLicenseType
                             ));
                         });
                         currentInstance.species = loadedSpecies;
