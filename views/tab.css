@@ -34,6 +34,7 @@ main {
 
 #species-description {
     position: absolute;
+    width: 30rem;
     right: 2vw;
     bottom: 2vw;
     padding: 2em;
@@ -43,19 +44,31 @@ main {
 
 #species-description h1 {
     text-transform: capitalize;
-    margin-top: 0;
-    margin-bottom: 1rem;
+    margin: 0;
 }
 
 #species-description label {
     margin: 0;
     font-size: 1rem;
+    text-transform: uppercase
 }
 
 #species-description .attribution-section label {
-    margin: 1rem auto 0;
+    margin: 0.5rem auto 0;
     font-style: italic;
     font-size: 0.8rem;
+}
+
+.taxonomy-script {
+    font-family: 'Yellowtail', cursive;
+    font-size: 1.4rem;
+    text-transform: capitalize;
+}
+
+.description-section {
+    text-align: justify;
+    font-size: 0.8rem;
+    margin-top: 0.5rem;
 }
 
 /* CSS Attribute Styling */
@@ -72,4 +85,5 @@ main {
 
 .flex-col {
     margin: 0 1em;
+    width: 50%;
 }
