@@ -12,7 +12,8 @@ export class Species {
         imageUrl = "",
         imageLicenseHolder = "",
         imageLicenseType = "",
-        wikipediaUrl = ""
+        wikipediaUrl = "",
+        wikipediaDescription = ""
     ) {
         this.id = id;
         this.kingdom = kingdom;

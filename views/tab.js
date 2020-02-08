@@ -11,5 +11,6 @@ todaysSpecies.registerListener(function(val){
     document.getElementById("family-name").textContent = val.family;
     document.getElementById("photo-author").textContent = val.imageLicenseHolder;
     document.getElementById("license").textContent = val.imageLicenseType;
+    document.getElementById("species-extract").textContent = val.wikipediaDescription;
     document.getElementById("license").href = "https://creativecommons.org/licenses/by/3.0/";
 });

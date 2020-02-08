@@ -26,7 +26,21 @@ export class SpeciesService {
     }
 
     getSpeciesById(id) {
+        this.getSpeciesDescription();
         return this.species.find(x => x.id == id);
+    }
+
+    getSpeciesDescription() {
+        var currentInstance = this;
+        fetch('https://en.wikipedia.org/w/api.php?action=query&redirects=1&format=json&prop=extracts&exsentences=10&exlimit=1&explaintext=1&titles=cochlicella_barbara&origin=*')
+            .then(response => response.json())
+            .then(data => {
+                let arr = Object.keys(data.query.pages).map((k) => data.query.pages[k])
+
+                let x = currentInstance.todaysSpecies.species;
+                x.wikipediaDescription = arr[0].extract;
+                currentInstance.todaysSpecies.species = x;
+            });
     }
 
     _getAllSpeciesFromStorage() {
