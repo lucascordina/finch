@@ -6010,8 +6010,8 @@
       "subgenus": "",
       "species": "Echinaster sepositus",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Lars Behnke",
+      "imageLicenseType": "CC 2.0",
       "wikipediaUrl": ""
     },
     {
@@ -6025,8 +6025,8 @@
       "subgenus": "",
       "species": "Anacridium aegyptium",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Alvesgaspar",
+      "imageLicenseType": "CC 3.0",
       "wikipediaUrl": ""
     },
     {
@@ -6040,8 +6040,8 @@
       "subgenus": "",
       "species": "Apogon imberbis",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Giuseppe A. Ramirez",
+      "imageLicenseType": "CC 4.0",
       "wikipediaUrl": ""
     },
     {
@@ -6055,8 +6055,8 @@
       "subgenus": "",
       "species": "Serranus scriba",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Marie-Françoise",
+      "imageLicenseType": "CC 3.0",
       "wikipediaUrl": ""
     },
     {
@@ -6115,7 +6115,7 @@
       "subgenus": "",
       "species": "Puccinia graminis",
       "imageUrl": "",
-      "imageLicenseHolder": "",
+      "imageLicenseHolder": "Agricultural Research Service",
       "imageLicenseType": "",
       "wikipediaUrl": ""
     },
@@ -6205,8 +6205,8 @@
       "subgenus": "",
       "species": "Osmia cornuta",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Bjorn S.",
+      "imageLicenseType": "CC 2.0",
       "wikipediaUrl": ""
     },
     {
@@ -6235,8 +6235,8 @@
       "subgenus": "",
       "species": "Xylocopa violacea",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Luc hoogenstein",
+      "imageLicenseType": "CC 4.0",
       "wikipediaUrl": ""
     },
     {
@@ -6265,8 +6265,8 @@
       "subgenus": "",
       "species": "Maniola jurtina",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Zeynel Cebeci",
+      "imageLicenseType": "CC 4.0",
       "wikipediaUrl": ""
     },
     {
@@ -6280,8 +6280,8 @@
       "subgenus": "",
       "species": "Pieris brassicae",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Uoaei1",
+      "imageLicenseType": "CC 4.0",
       "wikipediaUrl": ""
     },
     {
@@ -6369,21 +6369,6 @@
       "genus": "Ommatoiulus",
       "subgenus": "",
       "species": "Ommatoiulus oxypygus",
-      "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
-      "wikipediaUrl": ""
-    },
-    {
-      "id": 2461343551,
-      "kingdom": "Animalia",
-      "phylum": "Chordata",
-      "speciesClass": "Mammalia",
-      "order": "Perissodactyla",
-      "family": "Equidae",
-      "genus": "Equus",
-      "subgenus": "",
-      "species": "Equus caballus",
       "imageUrl": "",
       "imageLicenseHolder": "",
       "imageLicenseType": "",
@@ -6610,8 +6595,8 @@
       "subgenus": "",
       "species": "Papilio machaon",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Entomolo",
+      "imageLicenseType": "CC 4.0",
       "wikipediaUrl": ""
     },
     {
@@ -6655,8 +6640,8 @@
       "subgenus": "",
       "species": "Cochlicella acuta",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "H. Zell",
+      "imageLicenseType": "CC 3.0",
       "wikipediaUrl": ""
     },
     {
@@ -7105,8 +7090,8 @@
       "subgenus": "",
       "species": "Pachygrapsus marmoratus",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Petar Milošević",
+      "imageLicenseType": "CC 4.0",
       "wikipediaUrl": ""
     },
     {
@@ -7120,8 +7105,8 @@
       "subgenus": "",
       "species": "Arundo donax",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Forest and Kim Starr",
+      "imageLicenseType": "CC 3.0",
       "wikipediaUrl": ""
     },
     {
@@ -7345,8 +7330,8 @@
       "subgenus": "",
       "species": "Icerya purchasi",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Lucarelli",
+      "imageLicenseType": "CC 3.0",
       "wikipediaUrl": ""
     },
     {
@@ -7375,8 +7360,8 @@
       "subgenus": "",
       "species": "Ricinus communis",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Kolforn",
+      "imageLicenseType": "CC 4.0",
       "wikipediaUrl": ""
     },
     {
@@ -7390,8 +7375,8 @@
       "subgenus": "",
       "species": "Lepista nuda",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "FNeill",
+      "imageLicenseType": "CC 3.0",
       "wikipediaUrl": ""
     },
     {
@@ -7840,8 +7825,8 @@
       "subgenus": "",
       "species": "Jujubinus exasperatus",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "H. Zell",
+      "imageLicenseType": "CC 3.0",
       "wikipediaUrl": ""
     },
     {
@@ -8485,8 +8470,8 @@
       "subgenus": "",
       "species": "Euspira macilenta",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "H. Zell",
+      "imageLicenseType": "CC 3.0",
       "wikipediaUrl": ""
     },
     {
@@ -8560,8 +8545,8 @@
       "subgenus": "",
       "species": "Calyptraea chinensis",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "H. Zell",
+      "imageLicenseType": "CC 3.0",
       "wikipediaUrl": ""
     },
     {
@@ -17410,8 +17395,8 @@
       "subgenus": "",
       "species": "Testudo hermanni",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "NikolayST",
+      "imageLicenseType": "CC 4.0",
       "wikipediaUrl": ""
     },
     {
@@ -17440,8 +17425,8 @@
       "subgenus": "",
       "species": "Sylvia melanocephala",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Juan Emilio",
+      "imageLicenseType": "CC 2.0",
       "wikipediaUrl": ""
     },
     {
@@ -17455,8 +17440,8 @@
       "subgenus": "",
       "species": "Monticola saxatilis",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Pierre Dalous",
+      "imageLicenseType": "CC 3.0",
       "wikipediaUrl": ""
     },
     {
@@ -17485,8 +17470,8 @@
       "subgenus": "",
       "species": "Coracias garrulus",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Bernard DUPONT",
+      "imageLicenseType": "CC 2.0",
       "wikipediaUrl": ""
     },
     {
@@ -17530,8 +17515,8 @@
       "subgenus": "",
       "species": "Sylvia atricapilla",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Juan Emilio",
+      "imageLicenseType": "CC 2.0",
       "wikipediaUrl": ""
     },
     {
@@ -17560,8 +17545,8 @@
       "subgenus": "",
       "species": "Otus scops",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Frank Vassen",
+      "imageLicenseType": "CC 2.0",
       "wikipediaUrl": ""
     },
     {
@@ -17620,8 +17605,8 @@
       "subgenus": "",
       "species": "Linaria cannabina",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Pierre Dalous",
+      "imageLicenseType": "CC 3.0",
       "wikipediaUrl": ""
     },
     {
@@ -17650,8 +17635,8 @@
       "subgenus": "",
       "species": "Tringa glareola",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "JJ Harrison",
+      "imageLicenseType": "CC 3.0",
       "wikipediaUrl": ""
     },
     {
@@ -17665,8 +17650,8 @@
       "subgenus": "",
       "species": "Sylvia conspicillata",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Frank Vassen",
+      "imageLicenseType": "CC 2.0",
       "wikipediaUrl": ""
     },
     {
@@ -17695,8 +17680,8 @@
       "subgenus": "",
       "species": "Charadrius dubius",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Andreas Trepte",
+      "imageLicenseType": "CC 2.0",
       "wikipediaUrl": ""
     },
     {
@@ -17815,8 +17800,8 @@
       "subgenus": "",
       "species": "Phragmatobia fuliginosa",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Janet Graham",
+      "imageLicenseType": "CC 2.0",
       "wikipediaUrl": ""
     },
     {
@@ -17860,8 +17845,8 @@
       "subgenus": "",
       "species": "Steccherinum ochraceum",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Bjorn S.",
+      "imageLicenseType": "CC 2.0",
       "wikipediaUrl": ""
     },
     {
@@ -17875,7 +17860,7 @@
       "subgenus": "",
       "species": "Schizophyllum commune",
       "imageUrl": "",
-      "imageLicenseHolder": "",
+      "imageLicenseHolder": "Bernard Spragg. NZ",
       "imageLicenseType": "",
       "wikipediaUrl": ""
     },
@@ -17890,8 +17875,8 @@
       "subgenus": "",
       "species": "Auricularia auricula-judae",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Stu's Images",
+      "imageLicenseType": "CC 3.0",
       "wikipediaUrl": ""
     },
     {
@@ -23440,8 +23425,8 @@
       "subgenus": "",
       "species": "Merops apiaster",
       "imageUrl": "",
-      "imageLicenseHolder": "",
-      "imageLicenseType": "",
+      "imageLicenseHolder": "Pierre Dalous",
+      "imageLicenseType": "CC 3.0",
       "wikipediaUrl": ""
     },
     {
