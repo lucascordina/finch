@@ -2,10 +2,7 @@ import { Species } from './species.js';
 
 export class SpeciesService {
     constructor() {
-        // this.apiUrl = "https://myService.com/api/species/";
-        // this.data = {
-        //     key = "naturallyAPIKey"
-        // };
+        this.wikiTemplateUrl = "https://en.wikipedia.org/w/api.php?action=query&redirects=1&format=json&prop=info|extracts&inprop=url&exsentences=10&exlimit=1&explaintext=1&origin=*";
 
         this.species = [];
         this.todaysSpecies = {
@@ -26,13 +23,13 @@ export class SpeciesService {
     }
 
     getSpeciesById(id) {
-        this.getSpeciesDescription();
         return this.species.find(x => x.id == id);
     }
 
-    getSpeciesDescription() {
+    populateCurrentSpeciesFromWiki() {
         var currentInstance = this;
-        fetch('https://en.wikipedia.org/w/api.php?action=query&redirects=1&format=json&prop=info|extracts&inprop=url&exsentences=10&exlimit=1&explaintext=1&titles=cochlicella_barbara&origin=*')
+        var normalizedSpeciesTitle = currentInstance.todaysSpecies.species.species.replace(" ", "_"); 
+        fetch(`${currentInstance.wikiTemplateUrl}&titles=${normalizedSpeciesTitle}`)
             .then(response => response.json())
             .then(data => {
                 try {
@@ -79,6 +76,7 @@ export class SpeciesService {
                         });
                         currentInstance.species = loadedSpecies;
                         currentInstance.todaysSpecies.species = currentInstance.getSpeciesById(2541231656);
+                        currentInstance.populateCurrentSpeciesFromWiki();
                         resolve(loadedSpecies);
                     }
                 } catch(e) {
