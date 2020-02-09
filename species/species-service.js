@@ -32,14 +32,19 @@ export class SpeciesService {
 
     getSpeciesDescription() {
         var currentInstance = this;
-        fetch('https://en.wikipedia.org/w/api.php?action=query&redirects=1&format=json&prop=extracts&exsentences=10&exlimit=1&explaintext=1&titles=cochlicella_barbara&origin=*')
+        fetch('https://en.wikipedia.org/w/api.php?action=query&redirects=1&format=json&prop=info|extracts&inprop=url&exsentences=10&exlimit=1&explaintext=1&titles=cochlicella_barbara&origin=*')
             .then(response => response.json())
             .then(data => {
-                let arr = Object.keys(data.query.pages).map((k) => data.query.pages[k])
+                try {
+                    let arr = Object.keys(data.query.pages).map((k) => data.query.pages[k])
 
-                let x = currentInstance.todaysSpecies.species;
-                x.wikipediaDescription = arr[0].extract;
-                currentInstance.todaysSpecies.species = x;
+                    let x = currentInstance.todaysSpecies.species;
+                    x.wikipediaDescription = arr[0].extract;
+                    x.wikipediaUrl = arr[0].fullurl;
+                    currentInstance.todaysSpecies.species = x;
+                } catch(e) {
+                    console.log(e);
+                }
             });
     }
 

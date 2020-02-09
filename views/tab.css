@@ -72,6 +72,10 @@ main {
     white-space: pre-line;
 }
 
+.description-section {
+    font-style: italic;
+}
+
 /* CSS Attribute Styling */
 
 .label-shadow {
