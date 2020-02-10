@@ -14,3 +14,11 @@ todaysSpecies.registerListener(function(val){
     document.getElementById("species-extract").innerHTML = `${val.wikipediaDescription} <a href="${val.wikipediaUrl}" target="_blank">Read More</a>`;
     document.getElementById("license").href = "https://creativecommons.org/licenses/by/3.0/";
 });
+
+document.addEventListener('keypress', nextImage);
+var currentSpeciesIncrement = 0;
+function nextImage(e) {
+    localSpeciesService.getSpeciesByIndex(currentSpeciesIncrement);
+    console.log(currentSpeciesIncrement);
+    currentSpeciesIncrement++;
+}

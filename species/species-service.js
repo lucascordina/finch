@@ -26,6 +26,11 @@ export class SpeciesService {
         return this.species[this._calculateDayNumber()];
     }
 
+    getSpeciesByIndex(index) {
+        this.todaysSpecies.species = this.species[index];
+        this.populateCurrentSpeciesFromWiki();
+    }
+
     populateCurrentSpeciesFromWiki() {
         var currentInstance = this;
         var normalizedSpeciesTitle = currentInstance.todaysSpecies.species.species.replace(" ", "_"); 

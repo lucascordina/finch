@@ -428,7 +428,7 @@
     "genus": "Echinaster",
     "subgenus": "",
     "species": "Echinaster sepositus",
-    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319862/Species/Malta/Echinaster_sepositus_uxh2qa.jpg",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/a_hflip/a_0/v1581319862/Species/Malta/Echinaster_sepositus_uxh2qa.jpg",
     "imageLicenseHolder": "Lars Behnke",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -458,7 +458,7 @@
     "genus": "Apogon",
     "subgenus": "",
     "species": "Apogon imberbis",
-    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319835/Species/Malta/Apogon_imberbis_xqcl1d.jpg",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/a_hflip/v1581319835/Species/Malta/Apogon_imberbis_xqcl1d.jpg",
     "imageLicenseHolder": "Giuseppe A. Ramirez",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -518,7 +518,7 @@
     "genus": "Xylocopa",
     "subgenus": "",
     "species": "Xylocopa violacea",
-    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319854/Species/Malta/Xylocopa_violacea_cxj7n2.jpg",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/a_hflip/v1581319854/Species/Malta/Xylocopa_violacea_cxj7n2.jpg",
     "imageLicenseHolder": "Luc hoogenstein",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -548,7 +548,7 @@
     "genus": "Pieris",
     "subgenus": "",
     "species": "Pieris brassicae",
-    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319825/Species/Malta/Pieris_brassicae_kqtxdp.jpg",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/a_hflip/v1581319825/Species/Malta/Pieris_brassicae_kqtxdp.jpg",
     "imageLicenseHolder": "Uoaei1",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -1058,7 +1058,7 @@
     "genus": "Tarentola",
     "subgenus": "",
     "species": "Tarentola mauritanica",
-    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319846/Species/Malta/Tarentola_mauritanica_ky41s8.jpg",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/a_hflip/v1581319846/Species/Malta/Tarentola_mauritanica_ky41s8.jpg",
     "imageLicenseHolder": "Bernard DUPONT",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -1088,7 +1088,7 @@
     "genus": "Hippocampus",
     "subgenus": "",
     "species": "Hippocampus guttulatus",
-    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319862/Species/Malta/Hippocampus_guttulatus_cu9qyz.jpg",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/a_hflip,c_crop,h_2561/v1581322567/Species/Malta/Hippocampus_guttulatus_cu9qyz.jpg",
     "imageLicenseHolder": "Hans Hillewaert",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -1238,7 +1238,7 @@
     "genus": "Hermodice",
     "subgenus": "",
     "species": "Hermodice carunculata",
-    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319861/Species/Malta/Hermodice_carunculata_fwasjo.jpg",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/a_hflip/v1581319861/Species/Malta/Hermodice_carunculata_fwasjo.jpg",
     "imageLicenseHolder": "",
     "imageLicenseType": "",
     "wikipediaUrl": ""
@@ -1253,7 +1253,7 @@
     "genus": "Scyliorhinus",
     "subgenus": "",
     "species": "Scyliorhinus canicula",
-    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319838/Species/Malta/Scyliorhinus_canicula_c76rvs.jpg",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/a_hflip/v1581319838/Species/Malta/Scyliorhinus_canicula_c76rvs.jpg",
     "imageLicenseHolder": "Hans Hillewaert",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -1268,7 +1268,7 @@
     "genus": "Scorpaena",
     "subgenus": "",
     "species": "Scorpaena scrofa",
-    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319841/Species/Malta/Scorpaena_scrofa_n2f1sh.jpg",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/a_hflip/v1581319841/Species/Malta/Scorpaena_scrofa_n2f1sh.jpg",
     "imageLicenseHolder": "Lars Behnke",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -1313,7 +1313,7 @@
     "genus": "Leptotes",
     "subgenus": "",
     "species": "Leptotes pirithous",
-    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319807/Species/Malta/Leptotes_pirithous_cso9ef.jpg",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/a_hflip/v1581319807/Species/Malta/Leptotes_pirithous_cso9ef.jpg",
     "imageLicenseHolder": "Charles J Sharp",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -1358,7 +1358,7 @@
     "genus": "Gegenes",
     "subgenus": "",
     "species": "Gegenes pumilio",
-    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319859/Species/Malta/Gegenes_pumilio_rptm8s.jpg",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/a_hflip/v1581319859/Species/Malta/Gegenes_pumilio_rptm8s.jpg",
     "imageLicenseHolder": "Zeynel Cebeci",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
