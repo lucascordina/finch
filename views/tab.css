@@ -35,6 +35,8 @@ main {
 #species-description {
     position: absolute;
     width: 30rem;
+    max-height: 80%;
+    overflow-y: scroll;
     right: 2vw;
     bottom: 2vw;
     padding: 2em;

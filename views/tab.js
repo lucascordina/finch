@@ -15,10 +15,11 @@ todaysSpecies.registerListener(function(val){
     document.getElementById("license").href = "https://creativecommons.org/licenses/by/3.0/";
 });
 
-document.addEventListener('keypress', nextImage);
-var currentSpeciesIncrement = 0;
-function nextImage(e) {
-    localSpeciesService.getSpeciesByIndex(currentSpeciesIncrement);
-    console.log(currentSpeciesIncrement);
-    currentSpeciesIncrement++;
-}
+// CODE USED FOR CURATING
+// document.addEventListener('keypress', nextImage);
+// var currentSpeciesIncrement = 0;
+// function nextImage(e) {
+//     localSpeciesService.getSpeciesByIndex(currentSpeciesIncrement);
+//     console.log(currentSpeciesIncrement);
+//     currentSpeciesIncrement++;
+// }

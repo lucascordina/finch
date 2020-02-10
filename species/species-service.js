@@ -2,7 +2,7 @@ import { Species } from './species.js';
 
 export class SpeciesService {
     constructor() {
-        this.wikiTemplateUrl = "https://en.wikipedia.org/w/api.php?action=query&redirects=1&format=json&prop=info|extracts&inprop=url&exsentences=10&exlimit=1&explaintext=1&origin=*";
+        this.wikiTemplateUrl = "https://en.wikipedia.org/w/api.php?action=query&redirects=1&format=json&prop=info|extracts&inprop=url&exsentences=6&exlimit=1&explaintext=1&origin=*";
 
         this.species = [];
         this.todaysSpecies = {
@@ -26,6 +26,7 @@ export class SpeciesService {
         return this.species[this._calculateDayNumber()];
     }
 
+    //Generally used for curating content
     getSpeciesByIndex(index) {
         this.todaysSpecies.species = this.species[index];
         this.populateCurrentSpeciesFromWiki();
