@@ -74,7 +74,7 @@ main {
     white-space: pre-line;
 }
 
-.description-section {
+.description-section a {
     font-style: italic;
 }
 
