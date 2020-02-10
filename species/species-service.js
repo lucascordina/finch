@@ -55,7 +55,6 @@ export class SpeciesService {
         var currentInstance = this;
         return new Promise(function (resolve, reject) {
             var xobj = new XMLHttpRequest();
-            
             xobj.overrideMimeType("application/json");
             xobj.open('GET', '../assets/data/speciesdatafinal.json', true);
             xobj.onreadystatechange = function () {
@@ -80,7 +79,6 @@ export class SpeciesService {
                                 species.imageLicenseType
                             ));
                         });
-                        console.log(loadedSpecies);
                         currentInstance.species = loadedSpecies;
                         currentInstance.todaysSpecies.species = currentInstance.getTodaysSpecies();
                         currentInstance.populateCurrentSpeciesFromWiki();
@@ -90,7 +88,7 @@ export class SpeciesService {
                     console.log(e);
                 }
             }
-            xobj.send(null);
+            xobj.send(null);     
     });
     }
 
