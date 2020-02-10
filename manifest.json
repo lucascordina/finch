@@ -10,5 +10,10 @@
     "chrome_url_overrides" : {
       "newtab": "views/tab.html"
     },
+    "icons": {
+      "16": "assets/logo/logo16.png",
+      "48": "assets/logo/logo48.png",
+     "128": "assets/logo/logo128.png"
+    },
     "manifest_version": 2
   }
