@@ -35,7 +35,9 @@ export class SpeciesService {
     populateCurrentSpeciesFromWiki() {
         var currentInstance = this;
         var normalizedSpeciesTitle = currentInstance.todaysSpecies.species.species.replace(" ", "_"); 
-        fetch(`${currentInstance.wikiTemplateUrl}&titles=${normalizedSpeciesTitle}`)
+        fetch(`${currentInstance.wikiTemplateUrl}&titles=${normalizedSpeciesTitle}`, {
+            cache: "force-cache"
+        })
             .then(response => response.json())
             .then(data => {
                 try {
