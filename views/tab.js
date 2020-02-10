@@ -4,7 +4,6 @@ let localSpeciesService = new SpeciesService();
 var todaysSpecies = localSpeciesService.todaysSpecies;
 
 todaysSpecies.registerListener(function(val){
-    console.log(val);
     document.getElementById("main-container").style.backgroundImage = 'url('+val.imageUrl+')';
     document.getElementById("species-name").textContent = val.species;
     document.getElementById("order-name").textContent = val.order;
@@ -41,10 +40,10 @@ todaysSpecies.registerListener(function(val){
 });
 
 //CODE USED FOR CURATING
-document.addEventListener('keypress', nextImage);
-var currentSpeciesIncrement = 0;
-function nextImage(e) {
-    localSpeciesService.getSpeciesByIndex(currentSpeciesIncrement);
-    console.log(currentSpeciesIncrement);
-    currentSpeciesIncrement++;
-}
+// document.addEventListener('keypress', nextImage);
+// var currentSpeciesIncrement = 0;
+// function nextImage(e) {
+//     localSpeciesService.getSpeciesByIndex(currentSpeciesIncrement);
+//     console.log(currentSpeciesIncrement);
+//     currentSpeciesIncrement++;
+// }
