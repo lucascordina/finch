@@ -22,8 +22,8 @@ export class SpeciesService {
         this._getAllSpeciesFromStorage();
     }
 
-    getSpeciesById(id) {
-        return this.species.find(x => x.id == id);
+    getTodaysSpecies() {
+        return this.species[this._calculateDayNumber()];
     }
 
     populateCurrentSpeciesFromWiki() {
@@ -76,7 +76,7 @@ export class SpeciesService {
                         });
                         console.log(loadedSpecies);
                         currentInstance.species = loadedSpecies;
-                        currentInstance.todaysSpecies.species = currentInstance.getSpeciesById(2541231656);
+                        currentInstance.todaysSpecies.species = currentInstance.getTodaysSpecies();
                         currentInstance.populateCurrentSpeciesFromWiki();
                         resolve(loadedSpecies);
                     }
@@ -86,5 +86,14 @@ export class SpeciesService {
             }
             xobj.send(null);
     });
+    }
+
+    _calculateDayNumber() {
+        var now = new Date();
+        var start = new Date(now.getFullYear(), 0, 0);
+        var diff = (now - start) + ((start.getTimezoneOffset() - now.getTimezoneOffset()) * 60 * 1000);
+        var oneDay = 1000 * 60 * 60 * 24;
+        var day = Math.floor(diff / oneDay);
+        return day;
     }
 }

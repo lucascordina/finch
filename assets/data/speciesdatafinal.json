@@ -8,7 +8,7 @@
     "genus": "Podarcis",
     "subgenus": "",
     "species": "Podarcis filfolensis",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319851/Species/Malta/Podarcis_filfolensis_czfltd.jpg",
     "imageLicenseHolder": "Arnold Sciberras",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -38,7 +38,7 @@
     "genus": "Capparis",
     "subgenus": "",
     "species": "Capparis spinosa",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319828/Species/Malta/Capparis_spinosa_nuicin.jpg",
     "imageLicenseHolder": "Wouter Haggins",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -53,7 +53,7 @@
     "genus": "Calandrella",
     "subgenus": "",
     "species": "Calandrella brachydactyla",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319820/Species/Malta/Calandrella_brachydactyla_ivnrk1.jpg",
     "imageLicenseHolder": "Mike Prince",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -68,7 +68,7 @@
     "genus": "Podiceps",
     "subgenus": "",
     "species": "Podiceps nigricollis",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319826/Species/Malta/Podiceps_nigricollis_ygblvh.jpg",
     "imageLicenseHolder": "Becky Matsuraba",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -83,7 +83,7 @@
     "genus": "Chamaeleo",
     "subgenus": "",
     "species": "Chamaeleo chamaeleon",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319832/Species/Malta/Chamaeleo_chamaeleon_lfsvru.jpg",
     "imageLicenseHolder": "Luis nunes alberto",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -98,7 +98,7 @@
     "genus": "Pelagia",
     "subgenus": "",
     "species": "Pelagia noctiluca",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319828/Species/Malta/Pelagia_noctiluca_epzkzt.jpg",
     "imageLicenseHolder": "Emma Birdsey",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -113,7 +113,7 @@
     "genus": "Opuntia",
     "subgenus": "",
     "species": "Opuntia ficus-indica",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319819/Species/Malta/Opuntia-ficus-indica_cp6eei.jpg",
     "imageLicenseHolder": "Jeremy Bishop",
     "imageLicenseType": "",
     "wikipediaUrl": ""
@@ -128,7 +128,7 @@
     "genus": "Hedera",
     "subgenus": "",
     "species": "Hedera helix",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319862/Species/Malta/Hedera_helix_j5se8c.jpg",
     "imageLicenseHolder": "Krzysztof Ziarnek",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -143,7 +143,7 @@
     "genus": "Theba",
     "subgenus": "",
     "species": "Theba pisana",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319849/Species/Malta/Theba_pisana_aopwtz.jpg",
     "imageLicenseHolder": "H. Zell",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -158,7 +158,7 @@
     "genus": "Discoglossus",
     "subgenus": "",
     "species": "Discoglossus pictus",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319856/Species/Malta/Discoglossus_pictus_krsb53.jpg",
     "imageLicenseHolder": "Bernard Dupont",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -173,7 +173,7 @@
     "genus": "Crocothemis",
     "subgenus": "",
     "species": "Crocothemis erythraea",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319848/Species/Malta/Crocothemis_erythraea_peoveb.jpg",
     "imageLicenseHolder": "Charles J. Sharp",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -188,9 +188,9 @@
     "genus": "Eriphia",
     "subgenus": "",
     "species": "Eriphia verrucosa",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319865/Species/Malta/Eriphia_verrucosa_ryy9du.jpg",
     "imageLicenseHolder": "George Chernilevsky",
-    "imageLicenseType": "",
+    "imageLicenseType": "https://res.cloudinary.com/grasslands/image/upload/v1581319865/Species/Malta/Eriphia_verrucosa_ryy9du.jpg",
     "wikipediaUrl": ""
   },
   {
@@ -203,7 +203,7 @@
     "genus": "Teucrium",
     "subgenus": "",
     "species": "Teucrium fruticans",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319849/Species/Malta/Teucrium_fruticans_vn39rg.jpg",
     "imageLicenseHolder": "Peganum",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -218,7 +218,7 @@
     "genus": "Borago",
     "subgenus": "",
     "species": "Borago officinalis",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319818/Species/Malta/Borago_officinalis_ajho2i.jpg",
     "imageLicenseHolder": "AnemoneProjectors",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -233,7 +233,7 @@
     "genus": "Lathyrus",
     "subgenus": "",
     "species": "Lathyrus clymenum",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319866/Species/Malta/Lathyrus_clymenum_nrqmnx.jpg",
     "imageLicenseHolder": "Robert Flogaus-Faust",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -248,7 +248,7 @@
     "genus": "Lotus",
     "subgenus": "",
     "species": "Lotus edulis",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319812/Species/Malta/Lotus_edulis_sosk3a.jpg",
     "imageLicenseHolder": "Angel Mar Orquideas",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -263,7 +263,7 @@
     "genus": "Rubus",
     "subgenus": "",
     "species": "Rubus ulmifolius",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319835/Species/Malta/Rubus_ulmifolius_l1ygky.jpg",
     "imageLicenseHolder": "Javier martin",
     "imageLicenseType": "",
     "wikipediaUrl": ""
@@ -278,7 +278,7 @@
     "genus": "Ranunculus",
     "subgenus": "",
     "species": "Ranunculus peltatus",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319833/Species/Malta/Ranunculus_peltatus_oeponx.jpg",
     "imageLicenseHolder": "Christian Fischer",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -293,7 +293,7 @@
     "genus": "Arisarum",
     "subgenus": "",
     "species": "Arisarum vulgare",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319807/Species/Malta/Arisarum_vulgare_iabkkm.jpg",
     "imageLicenseHolder": "Auckland Museum",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -308,7 +308,7 @@
     "genus": "Pancratium",
     "subgenus": "",
     "species": "Pancratium maritimum",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319824/Species/Malta/Pancratium_maritimum_cqvuvf.jpg",
     "imageLicenseHolder": "falconaumanni",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -323,7 +323,7 @@
     "genus": "Erica",
     "subgenus": "",
     "species": "Erica multiflora",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319858/Species/Malta/Erica_multiflora_zlr5se.jpg",
     "imageLicenseHolder": "H. Zell",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -338,7 +338,7 @@
     "genus": "Tecoma",
     "subgenus": "",
     "species": "Tecoma stans",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319854/Species/Malta/Tecoma_stans_etrf1v.jpg",
     "imageLicenseHolder": "Filo gèn'",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -353,7 +353,7 @@
     "genus": "Malva",
     "subgenus": "",
     "species": "Malva arborea",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319810/Species/Malta/Malva_arborea_mja8sq.jpg",
     "imageLicenseHolder": "Katja Schulz",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -368,7 +368,7 @@
     "genus": "Solanum",
     "subgenus": "",
     "species": "Solanum villosum",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319841/Species/Malta/Solanum_villosum_pogxx3.jpg",
     "imageLicenseHolder": "Stefan Lefnaer",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -383,7 +383,7 @@
     "genus": "Bothus",
     "subgenus": "",
     "species": "Bothus podas",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319820/Species/Malta/Bothus_podas_bdc2fi.jpg",
     "imageLicenseHolder": "H. Zell",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -398,7 +398,7 @@
     "genus": "Dactylopterus",
     "subgenus": "",
     "species": "Dactylopterus volitans",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319852/Species/Malta/Dactylopterus_volitans_ibtzkh.jpg",
     "imageLicenseHolder": "Beckmannjan",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -413,7 +413,7 @@
     "genus": "Muraena",
     "subgenus": "",
     "species": "Muraena helena",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319815/Species/Malta/Muraena_helena_rk2v6r.jpg",
     "imageLicenseHolder": "ÁNGEL TOMÁS HERRERA PELÁEZ",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -428,7 +428,7 @@
     "genus": "Echinaster",
     "subgenus": "",
     "species": "Echinaster sepositus",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319862/Species/Malta/Echinaster_sepositus_uxh2qa.jpg",
     "imageLicenseHolder": "Lars Behnke",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -443,7 +443,7 @@
     "genus": "Anacridium",
     "subgenus": "",
     "species": "Anacridium aegyptium",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319812/Species/Malta/Anacridium_aegyptium_kqyuot.jpg",
     "imageLicenseHolder": "Alvesgaspar",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -458,7 +458,7 @@
     "genus": "Apogon",
     "subgenus": "",
     "species": "Apogon imberbis",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319835/Species/Malta/Apogon_imberbis_xqcl1d.jpg",
     "imageLicenseHolder": "Giuseppe A. Ramirez",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -473,7 +473,7 @@
     "genus": "Serranus",
     "subgenus": "",
     "species": "Serranus scriba",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319840/Species/Malta/Serranus_scriba_qzieyu.jpg",
     "imageLicenseHolder": "Marie-Françoise",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -488,7 +488,7 @@
     "genus": "Puccinia",
     "subgenus": "",
     "species": "Puccinia graminis",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319829/Species/Malta/Puccinia_graminis_elsdsk.jpg",
     "imageLicenseHolder": "Agricultural Research Service",
     "imageLicenseType": "",
     "wikipediaUrl": ""
@@ -503,7 +503,7 @@
     "genus": "Osmia",
     "subgenus": "",
     "species": "Osmia cornuta",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319816/Species/Malta/Osmia_cornuta_dpguk0.jpg",
     "imageLicenseHolder": "Bjorn S.",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -518,7 +518,7 @@
     "genus": "Xylocopa",
     "subgenus": "",
     "species": "Xylocopa violacea",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319854/Species/Malta/Xylocopa_violacea_cxj7n2.jpg",
     "imageLicenseHolder": "Luc hoogenstein",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -533,7 +533,7 @@
     "genus": "Maniola",
     "subgenus": "",
     "species": "Maniola jurtina",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319812/Species/Malta/Maniola_jurtina_fpctzv.jpg",
     "imageLicenseHolder": "Zeynel Cebeci",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -548,7 +548,7 @@
     "genus": "Pieris",
     "subgenus": "",
     "species": "Pieris brassicae",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319825/Species/Malta/Pieris_brassicae_kqtxdp.jpg",
     "imageLicenseHolder": "Uoaei1",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -563,7 +563,7 @@
     "genus": "Cochlicella",
     "subgenus": "",
     "species": "Cochlicella acuta",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319839/Species/Malta/Cochlicella_acuta_e9xnxd.jpg",
     "imageLicenseHolder": "H. Zell",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -578,7 +578,7 @@
     "genus": "Pachygrapsus",
     "subgenus": "",
     "species": "Pachygrapsus marmoratus",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319822/Species/Malta/Pachygrapsus_marmoratus_gf29a3.jpg",
     "imageLicenseHolder": "Petar Milošević",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -593,7 +593,7 @@
     "genus": "Arundo",
     "subgenus": "",
     "species": "Arundo donax",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319807/Species/Malta/Arundo_donax_ovvwyl.jpg",
     "imageLicenseHolder": "Forest and Kim Starr",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -608,7 +608,7 @@
     "genus": "Icerya",
     "subgenus": "",
     "species": "Icerya purchasi",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319863/Species/Malta/Icerya_purchasi_jj7mdq.jpg",
     "imageLicenseHolder": "Lucarelli",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -623,7 +623,7 @@
     "genus": "Ricinus",
     "subgenus": "",
     "species": "Ricinus communis",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319835/Species/Malta/Ricinus_communis_f9bqzn.jpg",
     "imageLicenseHolder": "Kolforn",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -638,7 +638,7 @@
     "genus": "Lepista",
     "subgenus": "",
     "species": "Lepista nuda",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319865/Species/Malta/Lepista_nuda_vvz785.jpg",
     "imageLicenseHolder": "FNeill",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -653,7 +653,7 @@
     "genus": "Jujubinus",
     "subgenus": "",
     "species": "Jujubinus exasperatus",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319864/Species/Malta/Jujubinus_exasperatus_oe5hr3.jpg",
     "imageLicenseHolder": "H. Zell",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -668,9 +668,24 @@
     "genus": "Euspira",
     "subgenus": "",
     "species": "Euspira macilenta",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319858/Species/Malta/Euspira_macilenta_n0zna2.jpg",
     "imageLicenseHolder": "H. Zell",
     "imageLicenseType": "CC 3.0",
+    "wikipediaUrl": ""
+  },
+  {
+    "id": 2451698364,
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "speciesClass": "Insecta",
+    "order": "Lepidoptera",
+    "family": "Papilionidae",
+    "genus": "Papilio",
+    "subgenus": "",
+    "species": "Papilio machaon",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319826/Species/Malta/Papilio_machaon_f85asf.jpg",
+    "imageLicenseHolder": "Entomolo",
+    "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
   },
   {
@@ -683,7 +698,7 @@
     "genus": "Calyptraea",
     "subgenus": "",
     "species": "Calyptraea chinensis",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319823/Species/Malta/Calyptraea_chinensis_cavcgn.jpg",
     "imageLicenseHolder": "H. Zell",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -698,7 +713,7 @@
     "genus": "Testudo",
     "subgenus": "",
     "species": "Testudo hermanni",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319862/Species/Malta/Testudo_hermanni_vdppre.jpg",
     "imageLicenseHolder": "NikolayST",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -713,7 +728,7 @@
     "genus": "Monticola",
     "subgenus": "",
     "species": "Monticola saxatilis",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319812/Species/Malta/Monticola_saxatilis_bjvjo8.jpg",
     "imageLicenseHolder": "Pierre Dalous",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -728,7 +743,7 @@
     "genus": "Coracias",
     "subgenus": "",
     "species": "Coracias garrulus",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319856/Species/Malta/Coracias_garrulus_22_vgsiet.jpg",
     "imageLicenseHolder": "Bernard DUPONT",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -743,7 +758,7 @@
     "genus": "Sylvia",
     "subgenus": "",
     "species": "Sylvia atricapilla",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319843/Species/Malta/Sylvia_atricapilla_utro2m.jpg",
     "imageLicenseHolder": "Juan Emilio",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -758,7 +773,7 @@
     "genus": "Merops",
     "subgenus": "",
     "species": "Merops apiaster",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319844/Species/Malta/Sylvia_borin_h16cbs.jpg",
     "imageLicenseHolder": "Pierre Dalous",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -773,7 +788,7 @@
     "genus": "Otus",
     "subgenus": "",
     "species": "Otus scops",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319821/Species/Malta/Otus_scops_rivpq9.jpg",
     "imageLicenseHolder": "Frank Vassen",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -788,7 +803,7 @@
     "genus": "Erithacus",
     "subgenus": "",
     "species": "Erithacus rubecula",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319857/Species/Malta/Erithacus_rubecula_hwmya1.jpg",
     "imageLicenseHolder": "",
     "imageLicenseType": "",
     "wikipediaUrl": ""
@@ -803,7 +818,7 @@
     "genus": "Linaria",
     "subgenus": "",
     "species": "Linaria cannabina",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319808/Species/Malta/Linaria_cannabina_uws0cp.jpg",
     "imageLicenseHolder": "Pierre Dalous",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -818,7 +833,7 @@
     "genus": "Tringa",
     "subgenus": "",
     "species": "Tringa glareola",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319851/Species/Malta/Tringa_glareola_hyv4mh.jpg",
     "imageLicenseHolder": "JJ Harrison",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -833,7 +848,7 @@
     "genus": "Sylvia",
     "subgenus": "",
     "species": "Sylvia conspicillata",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319846/Species/Malta/Sylvia_conspicillata_vpxj65.jpg",
     "imageLicenseHolder": "Frank Vassen",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -848,7 +863,7 @@
     "genus": "Charadrius",
     "subgenus": "",
     "species": "Charadrius dubius",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319846/Species/Malta/Charadrius_dubius_zwpny3.jpg",
     "imageLicenseHolder": "Andreas Trepte",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -863,7 +878,7 @@
     "genus": "Phragmatobia",
     "subgenus": "",
     "species": "Phragmatobia fuliginosa",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319832/Species/Malta/Phragmatobia_fuliginosa_qjkgq9.jpg",
     "imageLicenseHolder": "Janet Graham",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -878,7 +893,7 @@
     "genus": "Steccherinum",
     "subgenus": "",
     "species": "Steccherinum ochraceum",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319843/Species/Malta/Steccherinum_ochraceum_ndyxff.jpg",
     "imageLicenseHolder": "Bjorn S.",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -893,7 +908,7 @@
     "genus": "Schizophyllum",
     "subgenus": "",
     "species": "Schizophyllum commune",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319836/Species/Malta/Schizophyllum_commune_cf9iez.jpg",
     "imageLicenseHolder": "Bernard Spragg. NZ",
     "imageLicenseType": "",
     "wikipediaUrl": ""
@@ -908,7 +923,7 @@
     "genus": "Auricularia",
     "subgenus": "",
     "species": "Auricularia auricula-judae",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319818/Species/Malta/Auricularia_auricula-judae_esyq6t.jpg",
     "imageLicenseHolder": "Stu's Images",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -923,7 +938,7 @@
     "genus": "Citrus",
     "subgenus": "",
     "species": "Citrus medica",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319838/Species/Malta/Citrus_medica_ybmjlk.jpg",
     "imageLicenseHolder": "Johann Werfring",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -938,7 +953,7 @@
     "genus": "Citrus",
     "subgenus": "",
     "species": "Citrus aurantium",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319840/Species/Malta/Citrus_aurantium_aajrri.jpg",
     "imageLicenseHolder": "Zeynel Cebeci",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -953,7 +968,7 @@
     "genus": "Citrullus",
     "subgenus": "",
     "species": "Citrullus colocynthis",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319838/Species/Malta/Citrullus_colocynthis_uxiv3p.jpg",
     "imageLicenseHolder": "Bernard DUPONT",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -968,7 +983,7 @@
     "genus": "Pallenis",
     "subgenus": "",
     "species": "Pallenis spinosa",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319823/Species/Malta/Pallenis_spinosa_gnmwmk.jpg",
     "imageLicenseHolder": "Randi Hausken",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -983,7 +998,7 @@
     "genus": "Cynomorium",
     "subgenus": "",
     "species": "Cynomorium coccineum",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319851/Species/Malta/Cynomorium_coccineum_j8q1hz.jpg",
     "imageLicenseHolder": "MdeVicente",
     "imageLicenseType": "CC 1.0",
     "wikipediaUrl": ""
@@ -998,7 +1013,7 @@
     "genus": "Carya",
     "subgenus": "",
     "species": "Carya illinoiensis",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319830/Species/Malta/Carya_illinoiensis_aab1vk.jpg",
     "imageLicenseHolder": "Jerry A. Payne",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -1013,7 +1028,7 @@
     "genus": "Chalcides",
     "subgenus": "",
     "species": "Chalcides ocellatus",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319832/Species/Malta/Chalcides_ocellatus_bn3gbd.jpg",
     "imageLicenseHolder": "Kokkarani",
     "imageLicenseType": "",
     "wikipediaUrl": ""
@@ -1028,7 +1043,7 @@
     "genus": "Ficedula",
     "subgenus": "",
     "species": "Ficedula hypoleuca",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319859/Species/Malta/Ficedula_hypoleuca_gtpbvl.jpg",
     "imageLicenseHolder": "Estormiz",
     "imageLicenseType": "CC 1.0",
     "wikipediaUrl": ""
@@ -1043,7 +1058,7 @@
     "genus": "Tarentola",
     "subgenus": "",
     "species": "Tarentola mauritanica",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319846/Species/Malta/Tarentola_mauritanica_ky41s8.jpg",
     "imageLicenseHolder": "Bernard DUPONT",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -1058,7 +1073,7 @@
     "genus": "Hemidactylus",
     "subgenus": "",
     "species": "Hemidactylus turcicus",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319860/Species/Malta/Hemidactylus_turcicus_i2rqby.jpg",
     "imageLicenseHolder": "Konstantinos Kalaentzis",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -1073,7 +1088,7 @@
     "genus": "Hippocampus",
     "subgenus": "",
     "species": "Hippocampus guttulatus",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319862/Species/Malta/Hippocampus_guttulatus_cu9qyz.jpg",
     "imageLicenseHolder": "Hans Hillewaert",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -1088,7 +1103,7 @@
     "genus": "Cotylorhiza",
     "subgenus": "",
     "species": "Cotylorhiza tuberculata",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319847/Species/Malta/Cotylorhiza_tuberculata_z8vqcd.jpg",
     "imageLicenseHolder": "Fredski2013",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -1103,7 +1118,7 @@
     "genus": "Colias",
     "subgenus": "",
     "species": "Colias croceus",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319841/Species/Malta/Colias_croceus_dte4mv.jpg",
     "imageLicenseHolder": "Vítězslav Maňák",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -1118,7 +1133,7 @@
     "genus": "Upupa",
     "subgenus": "",
     "species": "Upupa epops",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319862/Species/Malta/Upupa_epops_xlzkmp.jpg",
     "imageLicenseHolder": "Africa Safari IN",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -1133,7 +1148,7 @@
     "genus": "Sympetrum",
     "subgenus": "",
     "species": "Sympetrum fonscolombii",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319844/Species/Malta/Sympetrum_fonscolombii_zwil1i.jpg",
     "imageLicenseHolder": "Bernard DUPONT",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -1148,7 +1163,7 @@
     "genus": "Sturnus",
     "subgenus": "",
     "species": "Sturnus vulgaris",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319846/Species/Malta/Sturnus_vulgaris_nnt7at.jpg",
     "imageLicenseHolder": "Ingrid Taylar",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -1163,7 +1178,7 @@
     "genus": "Saxicola",
     "subgenus": "",
     "species": "Saxicola rubicola",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319837/Species/Malta/Saxicola_rubicola_rrhbxe.jpg",
     "imageLicenseHolder": "Peter Broster",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -1178,7 +1193,7 @@
     "genus": "Rhamnus",
     "subgenus": "",
     "species": "Rhamnus alaternus",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319843/Species/Malta/Rhamnus_alaternus_hnuu6c.jpg",
     "imageLicenseHolder": "Júlio Reis",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -1193,7 +1208,7 @@
     "genus": "Punica",
     "subgenus": "",
     "species": "Punica granatum",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319831/Species/Malta/Punica_granatum_mcahhh.jpg",
     "imageLicenseHolder": "T137",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -1208,7 +1223,7 @@
     "genus": "Oryctolagus",
     "subgenus": "",
     "species": "Oryctolagus cuniculus",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319816/Species/Malta/Oryctolagus_cuniculus_qdobr8.jpg",
     "imageLicenseHolder": "Liz Poon, CSIRO",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -1223,7 +1238,7 @@
     "genus": "Hermodice",
     "subgenus": "",
     "species": "Hermodice carunculata",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319861/Species/Malta/Hermodice_carunculata_fwasjo.jpg",
     "imageLicenseHolder": "",
     "imageLicenseType": "",
     "wikipediaUrl": ""
@@ -1238,7 +1253,7 @@
     "genus": "Scyliorhinus",
     "subgenus": "",
     "species": "Scyliorhinus canicula",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319838/Species/Malta/Scyliorhinus_canicula_c76rvs.jpg",
     "imageLicenseHolder": "Hans Hillewaert",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -1253,7 +1268,7 @@
     "genus": "Scorpaena",
     "subgenus": "",
     "species": "Scorpaena scrofa",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319841/Species/Malta/Scorpaena_scrofa_n2f1sh.jpg",
     "imageLicenseHolder": "Lars Behnke",
     "imageLicenseType": "CC 2.0",
     "wikipediaUrl": ""
@@ -1268,7 +1283,7 @@
     "genus": "Rhinolophus",
     "subgenus": "",
     "species": "Rhinolophus hipposideros",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319835/Species/Malta/Rhinolophus_hipposideros_p9yxgn.jpg",
     "imageLicenseHolder": "Matthieu Gauvain",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -1283,7 +1298,7 @@
     "genus": "Pieris",
     "subgenus": "",
     "species": "Pieris rapae",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319824/Species/Malta/Pieris_rapae_fklpmc.jpg",
     "imageLicenseHolder": "Didier Descouens",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -1298,7 +1313,7 @@
     "genus": "Leptotes",
     "subgenus": "",
     "species": "Leptotes pirithous",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319807/Species/Malta/Leptotes_pirithous_cso9ef.jpg",
     "imageLicenseHolder": "Charles J Sharp",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -1313,7 +1328,7 @@
     "genus": "Celastrina",
     "subgenus": "",
     "species": "Celastrina argiolus",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319831/Species/Malta/Celastrina_argiolus_fwtojx.jpg",
     "imageLicenseHolder": "Charles J. Sharp",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -1328,7 +1343,7 @@
     "genus": "Echinus",
     "subgenus": "",
     "species": "Echinus melo",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319856/Species/Malta/Echinus_melo_lapp9i.jpg",
     "imageLicenseHolder": "Parent Géry",
     "imageLicenseType": "",
     "wikipediaUrl": ""
@@ -1343,7 +1358,7 @@
     "genus": "Gegenes",
     "subgenus": "",
     "species": "Gegenes pumilio",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319859/Species/Malta/Gegenes_pumilio_rptm8s.jpg",
     "imageLicenseHolder": "Zeynel Cebeci",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -1358,7 +1373,7 @@
     "genus": "Pontia",
     "subgenus": "",
     "species": "Pontia edusa",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319828/Species/Malta/Pontia_edusa_p6vqhe.jpg",
     "imageLicenseHolder": "Zeynel Cebeci",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -1373,7 +1388,7 @@
     "genus": "Raja",
     "subgenus": "",
     "species": "Raja clavata",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319832/Species/Malta/Raja_clavata_yib46o.jpg",
     "imageLicenseHolder": "Hans Hillewaert",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -1388,7 +1403,7 @@
     "genus": "Arnoglossus",
     "subgenus": "",
     "species": "Arnoglossus laterna",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319810/Species/Malta/Arnoglossus_laterna_rfwwmq.jpg",
     "imageLicenseHolder": "Hans Hillewaert",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -1403,7 +1418,7 @@
     "genus": "Apis",
     "subgenus": "",
     "species": "Apis mellifera",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319823/Species/Malta/Apis_mellifera_qmnztf.jpg",
     "imageLicenseHolder": "",
     "imageLicenseType": "",
     "wikipediaUrl": ""
@@ -1418,7 +1433,7 @@
     "genus": "Ophrys",
     "subgenus": "",
     "species": "Ophrys bertolonii",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319814/Species/Malta/Ophrys_bertolonii_22_x5gnsr.jpg",
     "imageLicenseHolder": "Jpaquetvence",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -1433,7 +1448,7 @@
     "genus": "Vanessa",
     "subgenus": "",
     "species": "Vanessa cardui",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319854/Species/Malta/Vanessa_cardui_kzhgje.jpg",
     "imageLicenseHolder": "Jean-Pol GRANDMONT",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -1448,7 +1463,7 @@
     "genus": "Origanum",
     "subgenus": "",
     "species": "Origanum majorana",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319815/Species/Malta/Origanum_majorana_y6dcrc.jpg",
     "imageLicenseHolder": "Forest & Kim Starr",
     "imageLicenseType": "CC 3.0",
     "wikipediaUrl": ""
@@ -1463,7 +1478,7 @@
     "genus": "Crocidura",
     "subgenus": "",
     "species": "Crocidura suaveolens",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319847/Species/Malta/Crocidura_suaveolens_xrhpud.jpg",
     "imageLicenseHolder": "Lies Van Rompaey",
     "imageLicenseType": "CC 4.0",
     "wikipediaUrl": ""
@@ -1478,7 +1493,7 @@
     "genus": "Mus",
     "subgenus": "",
     "species": "Mus musculus",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319814/Species/Malta/Mus_musculus_dhu2fs.jpg",
     "imageLicenseHolder": "",
     "imageLicenseType": "",
     "wikipediaUrl": ""
@@ -1493,7 +1508,7 @@
     "genus": "Atelerix",
     "subgenus": "",
     "species": "Atelerix algirus",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/grasslands/image/upload/v1581319818/Species/Malta/Atelerix_algirus_fpnstt.jpg",
     "imageLicenseHolder": "",
     "imageLicenseType": "",
     "wikipediaUrl": ""
