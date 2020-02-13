@@ -23,7 +23,19 @@ export class SpeciesService {
     }
 
     getTodaysSpecies() {
-        return this.species[this._calculateDayNumber()];
+
+        var dayNumber = this._calculateDayNumber();
+
+        //Below is done to limit the number to 100 since that is the current upper limit of photos
+        if(dayNumber > 300) {
+            dayNumber = dayNumber - 300;
+        } else if (dayNumber > 200) {
+            dayNumber = dayNumber - 200;
+        } else if (dayNumber > 100) {
+            dayNumber = dayNumber - 100;
+        }
+
+        return this.species[dayNumber];
     }
 
     //Generally used for curating content
